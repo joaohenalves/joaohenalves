@@ -13,7 +13,7 @@ I'm interested in software engineering opportunities, both in Brazil and interna
 **Two-time National Finalist (2024 & 2025)**
 
 - **2025** — National Finalist | **1st place** at the Chapecó contest site (First Phase).
-- **2024** — National Finalist | **3rd place** at the Passo Fundo contest site (First Phase). [UFFS News](https://cc.uffs.edu.br/noticias/2024/09/04/maratona-regional-2024/)
+- **2024** — National Finalist | **3rd place** at the Passo Fundo contest site (First Phase).
 
 ### Online Judges
 
