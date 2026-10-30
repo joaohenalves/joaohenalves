@@ -36,4 +36,4 @@ I'm interested in software engineering opportunities, both in Brazil and interna
 ## Contact
 
 - **LinkedIn:** [João Henrique Alves](https://br.linkedin.com/in/jo%C3%A3o-henrique-alves-dos-santos-b227a2398)
-- **Email:** YOUR_EMAIL_HERE
+- **Email:** jaozao77@gmail.com
