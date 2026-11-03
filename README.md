@@ -17,8 +17,8 @@ I'm interested in software engineering opportunities, both in Brazil and interna
 
 ### Online Judges
 
-- **[Codeforces](https://codeforces.com/profile/joaohenalves):** <sub><img src="assets/codeforces-expert.svg" alt="Expert 1638"></sub> — Peak rating.
-- **[AtCoder](https://atcoder.jp/users/joaohenalves):** <sub><img src="assets/atcoder-1264.svg" alt="1264"></sub> — Peak rating.
+- **[Codeforces](https://codeforces.com/profile/joaohenalves):** <img src="assets/codeforces-expert.svg" align="texttop" alt="Expert 1638"> — Peak rating.
+- **[AtCoder](https://atcoder.jp/users/joaohenalves):** <img src="assets/atcoder-1264.svg" align="texttop" alt="1264"> — Peak rating.
 - **2,500+ competitive programming problems solved**.
 - **Highest-ranked UFFS competitor** on Codeforces, AtCoder, and beecrowd.
 
