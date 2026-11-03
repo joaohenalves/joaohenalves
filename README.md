@@ -10,15 +10,16 @@ I'm interested in software engineering opportunities, both in Brazil and interna
 
 ### Brazilian Programming Marathon (SBC / ICPC)
 
-**Two-time National Finalist (2024 & 2025)**
+> 🏆 **Two-time National Finalist — 2024 & 2025**
 
-- **2025** — National Finalist | **1st place** at the Chapecó contest site (First Phase).
-- **2024** — National Finalist | **3rd place** at the Passo Fundo contest site (First Phase).
+- 🥇 **2025 — 1st place** at the Chapecó contest site (First Phase) | National Finalist.
+- 🥉 **2024 — 3rd place** at the Passo Fundo contest site (First Phase) | National Finalist.
+
 
 ### Online Judges
 
-- **[Codeforces](https://codeforces.com/profile/joaohenalves)** — Expert, peak rating **1638**.
-- **[AtCoder](https://atcoder.jp/users/joaohenalves)** — Peak rating **1264**.
+- **Codeforces:** $\color{#0000FF}{\textsf{Expert 1638}}$ — Peak rating.
+- **AtCoder:** $\color{#00C0C0}{\textsf{1264}}$ — Peak rating.
 - **2,500+ competitive programming problems solved**.
 - **Highest-ranked UFFS competitor** on Codeforces, AtCoder, and beecrowd.
 
