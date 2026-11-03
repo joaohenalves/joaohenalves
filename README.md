@@ -15,11 +15,10 @@ I'm interested in software engineering opportunities, both in Brazil and interna
 - 🥇 **2025 — 1st place** at the Chapecó contest site (First Phase) | National Finalist.
 - 🥉 **2024 — 3rd place** at the Passo Fundo contest site (First Phase) | National Finalist.
 
-
 ### Online Judges
 
-- **Codeforces:** $\color{#0000FF}{\textsf{Expert 1638}}$ — Peak rating.
-- **AtCoder:** $\color{#00C0C0}{\textsf{1264}}$ — Peak rating.
+- **Codeforces:** [![Expert 1638](assets/codeforces-expert.svg)](https://codeforces.com/profile/joaohenalves) Peak rating.
+- **AtCoder:** [![1264](assets/atcoder-1264.svg)](https://atcoder.jp/users/joaohenalves) Peak rating.
 - **2,500+ competitive programming problems solved**.
 - **Highest-ranked UFFS competitor** on Codeforces, AtCoder, and beecrowd.
 
